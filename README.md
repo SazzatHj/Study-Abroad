@@ -1,4 +1,4 @@
-# 🇯🇵 Study in Japan: Complete Roadmap & Resource Hub
+# Study in Japan: Complete Roadmap & Resource Hub
 
 জাপানে উচ্চশিক্ষা, স্কলারশিপ (যেমন: MEXT), জাপানি ভাষা শিক্ষা, পার্ট-টাইম কাজ এবং ক্যারিয়ার গড়ার জন্য একটি উন্মুক্ত ও সমন্বিত গাইডলাইন।
 
@@ -65,6 +65,7 @@
 - [Japan Embassy in Bangladesh](https://www.bd.emb-japan.go.jp/)
 - [JLPT Official Website](https://www.jlpt.jp/e/)
 - [JASSO Official Site](https://www.jasso.go.jp/en/)
+- [Learning Japanese Lenguage in Bangla](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
 
 ---
 
