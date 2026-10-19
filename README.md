@@ -55,7 +55,7 @@
 ---
 
 ## 💼 পার্ট-টাইম ও ফুল-টাইম কাজ (Work Opportunities)
-- **Arubaito (アルバイト):** জাপানে পার্ট-টাইম চাকরি খোঁজার মাধ্যম (TownWork, GaijinPot)।
+- **Arubaito (アルバイト):** জাপানে পার্ট-টাইম চাকরি খোঁজার মাধ্যম (TownWork, GaijinPot)। 
 - **Work Visa & Job Hunting (Shuukatsu):** গ্র্যাজুয়েশন শেষে ফুল-টাইম কাজের সুযোগ ও ভিসা ক্যাটাগরি (SSW, Humanities, Engineer)।
 
 ---
