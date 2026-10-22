@@ -23,8 +23,8 @@
 
 ---
 
-## [🗣️ জাপানি ভাষা শিক্ষা (Language Learning)](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
-জাপানে উচ্চশিক্ষা ও দৈনন্দিন জীবনের জন্য জাপানি ভাষা (JLPT / NAT) অত্যন্ত গুরুত্বপূর্ণ। - [Learning Japanese Lenguage in Bangla](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
+## 🗣️ [জাপানি ভাষা শিক্ষা (Language Learning)](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
+জাপানে উচ্চশিক্ষা ও দৈনন্দিন জীবনের জন্য জাপানি ভাষা (JLPT / NAT) অত্যন্ত গুরুত্বপূর্ণ। - [Learn Japanese in Bangla](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
 
 
 * **JLPT N5 - N4 (Basic Level):**
@@ -66,7 +66,7 @@
 - [Japan Embassy in Bangladesh](https://www.bd.emb-japan.go.jp/)
 - [JLPT Official Website](https://www.jlpt.jp/e/)
 - [JASSO Official Site](https://www.jasso.go.jp/en/)
-- [Learning Japanese Lenguage in Bangla](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
+- [Learn Japanese in Bangla](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
 
 ---
 
