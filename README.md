@@ -23,8 +23,9 @@
 
 ---
 
-## 🗣️ জাপানি ভাষা শিক্ষা (Language Learning)
-জাপানে উচ্চশিক্ষা ও দৈনন্দিন জীবনের জন্য জাপানি ভাষা (JLPT / NAT) অত্যন্ত গুরুত্বপূর্ণ।
+## [🗣️ জাপানি ভাষা শিক্ষা (Language Learning)](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
+জাপানে উচ্চশিক্ষা ও দৈনন্দিন জীবনের জন্য জাপানি ভাষা (JLPT / NAT) অত্যন্ত গুরুত্বপূর্ণ। - [Learning Japanese Lenguage in Bangla](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
+
 
 * **JLPT N5 - N4 (Basic Level):**
   - ভোকাবুলারি ও কাঞ্জি শেখার ফ্রি অ্যাপস (Anki, Renshuu, Todai Reader)।
