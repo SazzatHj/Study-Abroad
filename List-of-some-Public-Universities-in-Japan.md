@@ -1,4 +1,4 @@
-# 🏛️ Public Universities in Japan & Official Websites
+# Public Universities in Japan & Official Websites
 
 Here is a structured list of public and national universities in Japan along with their official websites:
 
