@@ -90,3 +90,7 @@ Here is a structured list of public and national universities in Japan along wit
 | **84** | Yamanashi University | [www.yamanashi.ac.jp](https://www.yamanashi.ac.jp) |
 | **85** | Yokohama National University | [www.ynu.ac.jp](https://www.ynu.ac.jp) |
 
+
+---
+**Maintained with ❤️ by [SazzatHj](https://sazzat.com/)**
+
