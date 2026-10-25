@@ -23,7 +23,7 @@
 
 ---
 
-## 🗣️ [জাপানি ভাষা শিক্ষা (Language Learning)](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
+## 🗣️ [Japanese Language Learning](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
 জাপানে উচ্চশিক্ষা ও দৈনন্দিন জীবনের জন্য জাপানি ভাষা (JLPT / NAT) অত্যন্ত গুরুত্বপূর্ণ। - [Learn Japanese in Bangla](https://www3.nhk.or.jp/nhkworld/lesson/bengali/)
 
 
