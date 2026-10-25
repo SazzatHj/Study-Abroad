@@ -61,7 +61,7 @@
 
 ---
 
-## 🔗 দরকারী ওয়েবসাইটের তালিকা (Useful Links)
+## 🔗 Useful Links
 - [Study in Japan Official Portal](https://www.studyinjapan.go.jp/en/)
 - [Japan Embassy in Bangladesh](https://www.bd.emb-japan.go.jp/)
 - [JLPT Official Website](https://www.jlpt.jp/e/)
