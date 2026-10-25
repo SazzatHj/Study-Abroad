@@ -92,5 +92,5 @@ Here is a structured list of public and national universities in Japan along wit
 
 
 ---
-**Maintained with ❤️ by [SazzatHj](https://sazzat.com/)**
+**Maintained with ❤️ by [Sazzat Hj](https://sazzat.com/)**
 
