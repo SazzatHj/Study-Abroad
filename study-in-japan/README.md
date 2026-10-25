@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 সূচিপত্র (Table of Contents)
+## 📌 Table of Contents
 1. [কেন জাপানে উচ্চশিক্ষা?](#-কেন-জাপানে-উচ্চশিক্ষা)
 2. [জাপানি ভাষা শিক্ষা (Language Learning)](#-জাপানি-ভাষা-শিক্ষা-language-learning)
 3. [স্কলারশিপের সুযোগ-সুবিধা (Scholarships)](#-স্কলারশিপের-সুযোগ-সুবিধা-scholarships)
