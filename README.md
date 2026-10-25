@@ -23,7 +23,7 @@ Each file serves as an individual roadmap and tracker for specific areas:
 
 > 💡 **Note:** The primary objective of this repository is to centralize all necessary information for quick and easy access at any time.
 
-## 🤝 অবদান রাখুন (Contribution Guidelines)
+## 🤝 Contribution Guidelines
 এই গাইডটি একটি **ওপেন-সোর্স প্রজেক্ট**। আপনি যদি নতুন কোনো তথ্য, স্কলারশিপ লিংক বা টিপস যোগ করে শিক্ষার্থী সমাজকে সাহায্য করতে চান, তবে একটি **Pull Request (PR)** দিন অথবা **Issue** ওপেন করুন।
 
 ---
